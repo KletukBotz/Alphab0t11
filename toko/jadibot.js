@@ -7,15 +7,15 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Permanen*
 │
-│ ⤷ *Harga :  25k [E-Wallet]*
-│ ⤷ *Harga :  28k [Pulsa]*
+│ ⤷ *Harga :  10k [E-Wallet]*
+│ ⤷ *Harga :  15k [Pulsa]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
 │ ⤷ *Dana [Diutamakan]*
 │ ⤷ *Ovo*
 │ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
+│ ⤷ *Pulsa 3*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
 │
